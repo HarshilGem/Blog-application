@@ -39,6 +39,3 @@ blog-app/backend/.env
 blog-app/frontend/.env.local 
 
 
-# Uploaded images
-frontend/public/uploads/*
-!frontend/public/uploads/.gitkeep 
